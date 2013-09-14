@@ -1,7 +1,7 @@
 
 //SDKROOT[arch=ppc] = /Developer/SDKs/MacOSX10.4u.sdk
 //SDKROOT = /Developer/SDKs/MacOSX10.6.sdk
-SDKROOT = macosx10.6
+SDKROOT = macosx10.9
 //SDKROOT = macosx10.7
 
 //GCC_VERSION[arch=ppc] = 4.0
