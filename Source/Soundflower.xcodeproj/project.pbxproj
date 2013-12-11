@@ -188,6 +188,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2249EC7E0ED70C7E003C8357 /* Soundflower.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Developer ID Application: B.G. van Amstel (RVZKP45394)";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				DEPLOYMENT_LOCATION = YES;
@@ -202,7 +203,9 @@
 				INSTALL_GROUP = "$(GROUP)";
 				INSTALL_OWNER = "$(USER)";
 				INSTALL_PATH = /../Build;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MODULE_NAME = com.Cycling74.driver.Soundflower;
+				MODULE_VERSION = 1.6.7;
 				PRODUCT_NAME = Soundflower;
 				WARNING_CFLAGS = (
 					"-Wmost",
@@ -217,6 +220,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2249EC7E0ED70C7E003C8357 /* Soundflower.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Developer ID Application: B.G. van Amstel (RVZKP45394)";
 				COMBINE_HIDPI_IMAGES = YES;
 				COPY_PHASE_STRIP = NO;
 				DEPLOYMENT_LOCATION = YES;
@@ -228,7 +232,9 @@
 				INSTALL_GROUP = "$(GROUP)";
 				INSTALL_OWNER = "$(USER)";
 				INSTALL_PATH = /../Build;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				MODULE_NAME = com.Cycling74.driver.Soundflower;
+				MODULE_VERSION = 1.6.7;
 				PRODUCT_NAME = Soundflower;
 				WARNING_CFLAGS = (
 					"-Wmost",
